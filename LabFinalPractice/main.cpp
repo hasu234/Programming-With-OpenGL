@@ -1,5 +1,6 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
+#include <GL/glu.h>
 #include <math.h>
 
 float roundShape(float x, float y,float cX , float sY)
