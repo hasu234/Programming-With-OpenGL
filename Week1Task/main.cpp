@@ -74,7 +74,6 @@ glutCreateWindow ("Hasu's House");
 init ();
 glutDisplayFunc(display);
 glutMainLoop();
-
 return 0;
 
 }
