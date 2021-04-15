@@ -4,7 +4,6 @@
 void init(){
     glClearColor(0,0,0,0);
     glMatrixMode(GL_PROJECTION);
-    //glOrtho(-10,10,-10,10,-10,5);
     gluOrtho2D(-10.0, 10.0, -10.0, 10.0);
 }
 
