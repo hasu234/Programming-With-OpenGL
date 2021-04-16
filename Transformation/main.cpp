@@ -43,9 +43,6 @@ void display(void)
 
 	glPopMatrix();
 
-	//glColor3f(0.0, 1.0, 0.0);
-	//glRectf(-50.0, -50.0, 50.0, 50.0);
-
 
 
 	glFlush();
