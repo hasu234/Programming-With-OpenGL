@@ -62,7 +62,7 @@ void initRendering() {
     glShadeModel(GL_SMOOTH);
     glClearDepth(1.0);
     glEnable(GL_DEPTH_TEST);
-    /*glDepthFunc(GL_LESS);
+    
     glEnable(GL_LIGHT0);
     glEnable(GL_NORMALIZE);
     glEnable(GL_COLOR_MATERIAL);
