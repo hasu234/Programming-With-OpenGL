@@ -77,8 +77,6 @@ void myDisplay()
     glColor3f(1.0,1.0,1.00);
     circle(0.2,0.2,-2.0,1.1);
 
-
-
     glFlush();
 
 }
