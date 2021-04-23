@@ -17,7 +17,6 @@ void display(void)
 
 glClear (GL_COLOR_BUFFER_BIT);
 
-/* draw white polygon (rectangle) with corners at
 
 *	(0.25, 0.25, 0.0) and (0.75, 0.75, 0.0) */
 
