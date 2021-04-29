@@ -26,8 +26,6 @@ void circle(GLfloat rx,GLfloat ry,GLfloat cx,GLfloat cy)//radius_x,radius_y,cert
     }
     glEnd();
 
-
-
 }
 
 
