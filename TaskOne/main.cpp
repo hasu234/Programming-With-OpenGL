@@ -48,7 +48,6 @@ void myDisplay()
     glEnd();
 
     glFlush();
-
 }
 
 int main()
