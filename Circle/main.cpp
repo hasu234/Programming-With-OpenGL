@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <math.h>
 
+
 void init()
 {
     glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
