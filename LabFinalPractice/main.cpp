@@ -202,7 +202,6 @@ void display(void)
         glVertex2f(0.85+0.11*cos(theta2),0.85+0.11*sin(theta2));
     }
     glEnd();
-
     glFlush();
 }
 
