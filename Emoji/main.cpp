@@ -60,6 +60,9 @@ void myDisplay()
     glColor3f(1.0f, 1.0f, 0.0f);
     circle(5.5,4,-1,-1.5);
 
+    
+    
+    
 
     glFlush();
 
