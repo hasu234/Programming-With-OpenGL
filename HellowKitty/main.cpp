@@ -29,6 +29,7 @@ void circle(GLfloat rx,GLfloat ry,GLfloat cx,GLfloat cy, GLint p, GLint q)
 
 }
 
+
 void myDisplay()
 {
     glClear(GL_COLOR_BUFFER_BIT);
